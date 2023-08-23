@@ -4,7 +4,7 @@ def countdown(x):
         return
     else:
         print(x, "...")
-        countdown(x-1)
+        countdown(x - 1)
         print("foo")
 
 
